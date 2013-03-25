@@ -11,4 +11,4 @@ The illustrating example in /index.html shows a flat table representing the code
 
 Tests for DataStructures.* are written in QUnit and can be found in /js/lib/tests/test.html.
 
-TODO - a few!  I need to review this properly and check out how I can get rid of the circular refs between nodes and parents
+more info on [my blog](http://stephenjamescode.blogspot.co.uk/ "Building a Tree in Javascript to convert flat CSV to hierarchical JSON") 
