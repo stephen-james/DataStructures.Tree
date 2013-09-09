@@ -12,3 +12,7 @@ The illustrating example in /index.html shows a flat table representing the code
 Tests for DataStructures.* are written in QUnit and can be found in /js/lib/tests/test.html.
 
 more info on [my blog](http://stephenjamescode.blogspot.co.uk/ "Building a Tree in Javascript to convert flat CSV to hierarchical JSON") 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/stephen-james/datastructures.tree/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
